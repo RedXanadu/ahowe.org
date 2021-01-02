@@ -2,18 +2,18 @@
 Andrew Howe
 ===========
 
-*Hello!*
+*Hello!* This is my personal website.
 
-This is my personal website.
+As of January 2021, it's still under construction.
 
-It is still under construction.
+Isn't clean and simple HTML lovely?
 
 `GitHub
 <https://github.com/RedXanadu>`_
-
+|
 `LinkedIn
 <https://www.linkedin.com/in/andrew-howe-20a423142/>`_
-
+|
 `Alignment
 <https://en.wikipedia.org/wiki/Alignment_(Dungeons_%26_Dragons)#Chaotic_good>`_
 

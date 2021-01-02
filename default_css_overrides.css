@@ -1,0 +1,45 @@
+<style>
+	body {
+		padding-top: 30px;
+	}
+
+	.title {
+		margin-top: 0;
+		font-size: 2em;
+	}
+
+	header {
+		margin-bottom: 1em;
+	}
+
+	h1 {
+		font-size: 1.4em;
+		color: DarkSlateGray;
+	}
+
+
+
+	a {
+		color: DarkSlateGray;
+	}
+
+	a:hover {
+		background-color: WhiteSmoke;
+	}
+
+
+
+	dt {
+		font-size: 0.9em;
+		/*color: DarkSlateGray;*/
+	}
+
+	dd {
+		margin-left: 0;
+	}
+
+	dd p {
+		margin-top: 0;
+		margin-bottom: 1.3em;
+	}
+</style>
