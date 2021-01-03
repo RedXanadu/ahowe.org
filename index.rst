@@ -26,7 +26,7 @@ Things I've written
 
 23 December 2019
   `HAProxy Conference 2019
-  <https://www.loadbalancer.org/blog/layer-4-vs-layer-7-load-balancing-we-still-love-dsr/>`_
+  <https://www.loadbalancer.org/blog/haproxy-conference-2019/>`_
 
 3 December 2019
   `Security through geography\: blocking traffic by country, continent, or IP address using ModSecurity
