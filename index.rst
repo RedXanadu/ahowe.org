@@ -20,6 +20,10 @@ Isn't clean and simple HTML lovely?
 Things I've written
 ===================
 
+8 January 2021
+  `ModSecurity and the Case of the Never Decreasing Variables
+  <https://www.loadbalancer.org/blog/modsecurity-and-the-case-of-the-never-decreasing-variables/>`_
+
 21 May 2020
   `(Video) Layer 4 vs Layer 7 load balancing - we still love DSR, but…
   <https://www.loadbalancer.org/blog/layer-4-vs-layer-7-load-balancing-we-still-love-dsr/>`_
