@@ -4,7 +4,7 @@ Andrew Howe
 
 *Hello!* This is my personal website.
 
-As of January 2021, it's still under construction.
+As of March 2021, it's still under construction.
 
 Isn't clean and simple HTML lovely?
 
@@ -19,6 +19,10 @@ Isn't clean and simple HTML lovely?
 
 Things I've written
 ===================
+
+26 February 2021
+  `(Video) Round table discussion about FLOSS ("Open source software: myth-busting, business benefits and FOSDEM '21")
+  <https://www.loadbalancer.org/blog/open-source-software-myth-busting-business-benefits/>`_
 
 8 January 2021
   `ModSecurity and the Case of the Never Decreasing Variables
