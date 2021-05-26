@@ -4,8 +4,6 @@ Andrew Howe
 
 *Hello!* This is my personal website.
 
-As of April 2021, it's still under construction.
-
 Isn't clean and simple HTML lovely?
 
 `GitHub
