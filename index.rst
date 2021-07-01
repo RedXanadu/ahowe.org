@@ -2,6 +2,9 @@
 Andrew Howe
 ===========
 
+.. role:: raw-html(raw)
+   :format: html
+
 *Hello!* This is my personal website.
 
 Isn't clean and simple HTML lovely?
@@ -17,6 +20,11 @@ Isn't clean and simple HTML lovely?
 
 Things I've written
 ===================
+
+30 June 2021
+  I discovered my first CVE-worthy vulnerability! :raw-html:`<br />`
+  `Announcing CVE-2021-35368: OWASP ModSecurity Core Rule Set Bypass
+  <https://www.loadbalancer.org/blog/announcing-cve-2021-35368-owasp-modsecurity-core-rule-set-bypass/>`_
 
 26 February 2021
   `(Video) Round table discussion about FLOSS ("Open source software: myth-busting, business benefits and FOSDEM '21")
