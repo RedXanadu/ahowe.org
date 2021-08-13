@@ -21,6 +21,10 @@ Isn't clean and simple HTML lovely?
 Things I've written
 ===================
 
+13 August 2021
+  `(With video) Extending ModSecurity: How to add completely custom WAF functionality
+  <https://www.loadbalancer.org/blog/extending-modsecurity-how-to-add-completely-custom-functionality/>`_
+
 30 June 2021
   I discovered my first CVE-worthy vulnerability! :raw-html:`<br />`
   `Announcing CVE-2021-35368: OWASP ModSecurity Core Rule Set Bypass
@@ -35,7 +39,7 @@ Things I've written
   <https://www.loadbalancer.org/blog/modsecurity-and-the-case-of-the-never-decreasing-variables/>`_
 
 21 May 2020
-  `(Video) Layer 4 vs Layer 7 load balancing - we still love DSR, but…
+  `(With video) Layer 4 vs Layer 7 load balancing - we still love DSR, but…
   <https://www.loadbalancer.org/blog/layer-4-vs-layer-7-load-balancing-we-still-love-dsr/>`_
 
 23 December 2019
