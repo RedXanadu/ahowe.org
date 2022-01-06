@@ -21,7 +21,7 @@
       padding-top: 50px;
       padding-bottom: 50px;
       hyphens: auto;
-      word-wrap: break-word;
+      overflow-wrap: break-word;
       text-rendering: optimizeLegibility;
       font-kerning: normal;
     }
@@ -92,6 +92,7 @@
     pre code {
       padding: 0;
       overflow: visible;
+      overflow-wrap: normal;
     }
     .sourceCode {
      background-color: transparent;
@@ -163,24 +164,24 @@
 
   	h1 {
   		font-size: 1.4em;
-  		color: DarkSlateGray;
+  		color: DarkSlateBlue;
   	}
 
 
 
   	a {
-  		color: DarkSlateGray;
+  		color: #4F6F6F;
   	}
 
   	a:hover {
-  		background-color: WhiteSmoke;
+  		background-color: AliceBlue;
   	}
 
 
 
   	dt {
-  		font-size: 0.85em;
-  		/*color: DarkSlateGray;*/
+  		font-size: 0.8em;
+  		color: #0F2F2F;
   	}
 
   	dd {
@@ -189,7 +190,7 @@
 
   	dd p {
   		margin-top: 0;
-  		margin-bottom: 1.3em;
+  		margin-bottom: 1.4em;
   	}
   </style>
 </head>
@@ -197,11 +198,21 @@
 <header id="title-block-header">
 <h1 class="title">Andrew Howe</h1>
 </header>
-<p><em>Hello!</em> This is my personal website.</p>
+<p><em>Hello!</em> I'm Andrew, a:</p>
+<ul>
+<li>Free &amp; open-source software advocate</li>
+<li><a href="https://coreruleset.org/">OWASP ModSecurity Core Rule Set</a> developer</li>
+<li>Technical author</li>
+<li>Linux load balancer engineer/architect</li>
+</ul>
+<p>among other things.</p>
 <p>Isn't clean and simple HTML lovely?</p>
 <p><a href="https://github.com/RedXanadu">GitHub</a> | <a href="https://www.linkedin.com/in/andrew-howe-20a423142/">LinkedIn</a> | <a href="https://en.wikipedia.org/wiki/Alignment_(Dungeons_%26_Dragons)#Chaotic_good">Alignment</a></p>
 <h1 id="things-ive-written">Things I've written</h1>
 <dl>
+<dt>6 January 2022</dt>
+<dd><p><a href="https://www.loadbalancer.org/blog/outreach-and-its-importance/">The importance of outreach: Introducing students to load balancing</a></p>
+</dd>
 <dt>13 August 2021</dt>
 <dd><p><a href="https://www.loadbalancer.org/blog/extending-modsecurity-how-to-add-completely-custom-functionality/">(With video) Extending ModSecurity: How to add completely custom WAF functionality</a></p>
 </dd>

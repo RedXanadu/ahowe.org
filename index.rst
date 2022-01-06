@@ -5,7 +5,14 @@ Andrew Howe
 .. role:: raw-html(raw)
    :format: html
 
-*Hello!* This is my personal website.
+*Hello!* I'm Andrew, a:
+
+- Free & open-source software advocate
+- `OWASP ModSecurity Core Rule Set<https://coreruleset.org/>`_ developer
+- Technical author
+- Linux load balancer engineer/architect
+
+among other things.
 
 Isn't clean and simple HTML lovely?
 
@@ -20,6 +27,10 @@ Isn't clean and simple HTML lovely?
 
 Things I've written
 ===================
+
+6 January 2022
+  `The importance of outreach: Introducing students to load balancing
+  <https://www.loadbalancer.org/blog/outreach-and-its-importance/>`_
 
 13 August 2021
   `(With video) Extending ModSecurity: How to add completely custom WAF functionality

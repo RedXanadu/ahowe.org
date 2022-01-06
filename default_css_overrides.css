@@ -14,24 +14,24 @@
 
 	h1 {
 		font-size: 1.4em;
-		color: DarkSlateGray;
+		color: DarkSlateBlue;
 	}
 
 
 
 	a {
-		color: DarkSlateGray;
+		color: #4F6F6F;
 	}
 
 	a:hover {
-		background-color: WhiteSmoke;
+		background-color: AliceBlue;
 	}
 
 
 
 	dt {
-		font-size: 0.85em;
-		/*color: DarkSlateGray;*/
+		font-size: 0.8em;
+		color: #0F2F2F;
 	}
 
 	dd {
@@ -40,6 +40,6 @@
 
 	dd p {
 		margin-top: 0;
-		margin-bottom: 1.3em;
+		margin-bottom: 1.4em;
 	}
 </style>
