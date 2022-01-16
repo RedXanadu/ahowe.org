@@ -22,6 +22,9 @@ Isn't clean and simple HTML lovely?
 `LinkedIn
 <https://www.linkedin.com/in/andrew-howe-20a423142/>`_
 |
+`Stack Overflow
+<https://stackoverflow.com/users/16322997/xanadu>`_
+|
 `Alignment
 <https://en.wikipedia.org/wiki/Alignment_(Dungeons_%26_Dragons)#Chaotic_good>`_
 
