@@ -31,6 +31,10 @@ Isn't clean and simple HTML lovely?
 Things I've written
 ===================
 
+17 January 2022
+  `Simplifying web application security with the Core Rule Set v3
+  <https://www.loadbalancer.org/blog/simplifying-web-application-security-with-the-core-rule-set-v3/>`_
+
 6 January 2022
   `The importance of outreach: Introducing students to load balancing
   <https://www.loadbalancer.org/blog/outreach-and-its-importance/>`_
