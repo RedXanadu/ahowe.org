@@ -31,6 +31,10 @@ Isn't clean and simple HTML lovely?
 Things I've written
 ===================
 
+21 January 2022
+  `ModSecurity DoS vulnerability (CVE-2021-42717)
+  <https://www.loadbalancer.org/blog/modsecurity-dos-vulnerability-and-the-state-of-free/>`_
+
 17 January 2022
   `Simplifying web application security with the Core Rule Set v3
   <https://www.loadbalancer.org/blog/simplifying-web-application-security-with-the-core-rule-set-v3/>`_
