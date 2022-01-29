@@ -14,7 +14,7 @@ Andrew Howe
 
 among other things.
 
-Isn't clean and simple HTML lovely?
+Talk to me about ModSecurity WAFs! andrew [at] ahowe.org
 
 `GitHub
 <https://github.com/RedXanadu>`_
