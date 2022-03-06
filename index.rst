@@ -31,6 +31,10 @@ Talk to me about ModSecurity WAFs! andrew [at] ahowe.org
 Things I've written
 ===================
 
+28 February 2022
+  `Achieving unrivaled performance with media and video streaming on demand
+  <https://www.loadbalancer.org/blog/achieving-unrivaled-performance/>`_
+
 21 January 2022
   `ModSecurity DoS vulnerability (CVE-2021-42717)
   <https://www.loadbalancer.org/blog/modsecurity-dos-vulnerability-and-the-state-of-free/>`_
