@@ -31,6 +31,10 @@ Talk to me about ModSecurity WAFs! andrew [at] ahowe.org
 Things I've written
 ===================
 
+9 June 2022
+  `Handling large requests with a WAF while avoiding denial-of-service attacks
+  <https://www.loadbalancer.org/blog/handling-large-requests-with-a-waf-while-avoiding-dos-attacks/>`_
+
 28 February 2022
   `Achieving unrivaled performance with media and video streaming on demand
   <https://www.loadbalancer.org/blog/achieving-unrivaled-performance/>`_

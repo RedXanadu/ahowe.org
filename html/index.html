@@ -30,6 +30,9 @@
         font-size: 0.9em;
         padding: 1em;
       }
+      h1 {
+        font-size: 1.8em;
+      }
     }
     @media print {
       body {
@@ -134,6 +137,12 @@
     #TOC li {
       list-style: none;
     }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
     #TOC a:not(:hover) {
       text-decoration: none;
     }
@@ -145,9 +154,6 @@
     ul.task-list{list-style: none;}
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
-  <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
-  <![endif]-->
   <style>
   	body {
   		padding-top: 30px;
@@ -193,6 +199,9 @@
   		margin-bottom: 1.4em;
   	}
   </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
 </head>
 <body>
 <header id="title-block-header">
@@ -201,53 +210,108 @@
 <p><em>Hello!</em> I'm Andrew, a:</p>
 <ul>
 <li>Free &amp; open-source software advocate</li>
-<li><a href="https://coreruleset.org/">OWASP ModSecurity Core Rule Set</a> developer</li>
+<li><a href="https://coreruleset.org/">OWASP ModSecurity Core Rule
+Set</a> developer</li>
 <li>Technical author</li>
 <li>Linux load balancer engineer/architect</li>
 </ul>
 <p>among other things.</p>
 <p>Talk to me about ModSecurity WAFs! andrew [at] ahowe.org</p>
-<p><a href="https://github.com/RedXanadu">GitHub</a> | <a href="https://www.linkedin.com/in/andrew-howe-20a423142/">LinkedIn</a> | <a href="https://stackoverflow.com/users/16322997/xanadu">Stack Overflow</a> | <a href="https://en.wikipedia.org/wiki/Alignment_(Dungeons_%26_Dragons)#Chaotic_good">Alignment</a></p>
+<p><a href="https://github.com/RedXanadu">GitHub</a> | <a
+href="https://www.linkedin.com/in/andrew-howe-20a423142/">LinkedIn</a> |
+<a href="https://stackoverflow.com/users/16322997/xanadu">Stack
+Overflow</a> | <a
+href="https://en.wikipedia.org/wiki/Alignment_(Dungeons_%26_Dragons)#Chaotic_good">Alignment</a></p>
 <h1 id="things-ive-written">Things I've written</h1>
 <dl>
+<dt>9 June 2022</dt>
+<dd>
+<p><a
+href="https://www.loadbalancer.org/blog/handling-large-requests-with-a-waf-while-avoiding-dos-attacks/">Handling
+large requests with a WAF while avoiding denial-of-service
+attacks</a></p>
+</dd>
 <dt>28 February 2022</dt>
-<dd><p><a href="https://www.loadbalancer.org/blog/achieving-unrivaled-performance/">Achieving unrivaled performance with media and video streaming on demand</a></p>
+<dd>
+<p><a
+href="https://www.loadbalancer.org/blog/achieving-unrivaled-performance/">Achieving
+unrivaled performance with media and video streaming on demand</a></p>
 </dd>
 <dt>21 January 2022</dt>
-<dd><p><a href="https://www.loadbalancer.org/blog/modsecurity-dos-vulnerability-and-the-state-of-free/">ModSecurity DoS vulnerability (CVE-2021-42717)</a></p>
+<dd>
+<p><a
+href="https://www.loadbalancer.org/blog/modsecurity-dos-vulnerability-and-the-state-of-free/">ModSecurity
+DoS vulnerability (CVE-2021-42717)</a></p>
 </dd>
 <dt>17 January 2022</dt>
-<dd><p><a href="https://www.loadbalancer.org/blog/simplifying-web-application-security-with-the-core-rule-set-v3/">Simplifying web application security with the Core Rule Set v3</a></p>
+<dd>
+<p><a
+href="https://www.loadbalancer.org/blog/simplifying-web-application-security-with-the-core-rule-set-v3/">Simplifying
+web application security with the Core Rule Set v3</a></p>
 </dd>
 <dt>6 January 2022</dt>
-<dd><p><a href="https://www.loadbalancer.org/blog/outreach-and-its-importance/">The importance of outreach: Introducing students to load balancing</a></p>
+<dd>
+<p><a
+href="https://www.loadbalancer.org/blog/outreach-and-its-importance/">The
+importance of outreach: Introducing students to load balancing</a></p>
 </dd>
 <dt>13 August 2021</dt>
-<dd><p><a href="https://www.loadbalancer.org/blog/extending-modsecurity-how-to-add-completely-custom-functionality/">(With video) Extending ModSecurity: How to add completely custom WAF functionality</a></p>
+<dd>
+<p><a
+href="https://www.loadbalancer.org/blog/extending-modsecurity-how-to-add-completely-custom-functionality/">(With
+video) Extending ModSecurity: How to add completely custom WAF
+functionality</a></p>
 </dd>
 <dt>30 June 2021</dt>
-<dd><p>I discovered my first CVE-worthy vulnerability! <br /> <a href="https://www.loadbalancer.org/blog/announcing-cve-2021-35368-owasp-modsecurity-core-rule-set-bypass/">Announcing CVE-2021-35368: OWASP ModSecurity Core Rule Set Bypass</a></p>
+<dd>
+<p>I discovered my first CVE-worthy vulnerability! <br /> <a
+href="https://www.loadbalancer.org/blog/announcing-cve-2021-35368-owasp-modsecurity-core-rule-set-bypass/">Announcing
+CVE-2021-35368: OWASP ModSecurity Core Rule Set Bypass</a></p>
 </dd>
 <dt>26 February 2021</dt>
-<dd><p><a href="https://www.loadbalancer.org/blog/open-source-software-myth-busting-business-benefits/">(Video) Round table discussion about FLOSS ("Open source software: myth-busting, business benefits and FOSDEM '21")</a></p>
+<dd>
+<p><a
+href="https://www.loadbalancer.org/blog/open-source-software-myth-busting-business-benefits/">(Video)
+Round table discussion about FLOSS ("Open source software: myth-busting,
+business benefits and FOSDEM '21")</a></p>
 </dd>
 <dt>8 January 2021</dt>
-<dd><p><a href="https://www.loadbalancer.org/blog/modsecurity-and-the-case-of-the-never-decreasing-variables/">ModSecurity and the Case of the Never Decreasing Variables</a></p>
+<dd>
+<p><a
+href="https://www.loadbalancer.org/blog/modsecurity-and-the-case-of-the-never-decreasing-variables/">ModSecurity
+and the Case of the Never Decreasing Variables</a></p>
 </dd>
 <dt>21 May 2020</dt>
-<dd><p><a href="https://www.loadbalancer.org/blog/layer-4-vs-layer-7-load-balancing-we-still-love-dsr/">(With video) Layer 4 vs Layer 7 load balancing - we still love DSR, but…</a></p>
+<dd>
+<p><a
+href="https://www.loadbalancer.org/blog/layer-4-vs-layer-7-load-balancing-we-still-love-dsr/">(With
+video) Layer 4 vs Layer 7 load balancing - we still love DSR,
+but…</a></p>
 </dd>
 <dt>23 December 2019</dt>
-<dd><p><a href="https://www.loadbalancer.org/blog/haproxy-conference-2019/">HAProxy Conference 2019</a></p>
+<dd>
+<p><a
+href="https://www.loadbalancer.org/blog/haproxy-conference-2019/">HAProxy
+Conference 2019</a></p>
 </dd>
 <dt>3 December 2019</dt>
-<dd><p><a href="https://www.loadbalancer.org/blog/security-through-geography-blocking-traffic-by-country-continent-or-ip-address-using-our-waf-functionality/">Security through geography: blocking traffic by country, continent, or IP address using ModSecurity</a></p>
+<dd>
+<p><a
+href="https://www.loadbalancer.org/blog/security-through-geography-blocking-traffic-by-country-continent-or-ip-address-using-our-waf-functionality/">Security
+through geography: blocking traffic by country, continent, or IP address
+using ModSecurity</a></p>
 </dd>
 <dt>20 June 2019</dt>
-<dd><p><a href="https://www.loadbalancer.org/blog/sack-panic-what-is-it-and-should-we-actually-panic/">SACK Panic: What is it, and is it actually time to panic?</a></p>
+<dd>
+<p><a
+href="https://www.loadbalancer.org/blog/sack-panic-what-is-it-and-should-we-actually-panic/">SACK
+Panic: What is it, and is it actually time to panic?</a></p>
 </dd>
 <dt>20 December 2018</dt>
-<dd><p><a href="https://www.loadbalancer.org/blog/15-years-later-we-still-love-dsr/">15 years later, we still love DSR</a></p>
+<dd>
+<p><a
+href="https://www.loadbalancer.org/blog/15-years-later-we-still-love-dsr/">15
+years later, we still love DSR</a></p>
 </dd>
 </dl>
 </body>
