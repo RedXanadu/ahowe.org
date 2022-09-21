@@ -31,6 +31,11 @@ Talk to me about ModSecurity WAFs! andrew [at] ahowe.org
 Things I've written
 ===================
 
+19 September 2022
+  Co-wrote CVE advisories and blog post over at `coreruleset.org<https://coreruleset.org/>`_ :raw-html:`<br />`
+  `CRS Version 3.3.3 and 3.2.2 (covering several CVEs)
+  <https://coreruleset.org/20220919/crs-version-3-3-3-and-3-2-2-covering-several-cves/>`_
+
 9 June 2022
   `Handling large requests with a WAF while avoiding denial-of-service attacks
   <https://www.loadbalancer.org/blog/handling-large-requests-with-a-waf-while-avoiding-dos-attacks/>`_
