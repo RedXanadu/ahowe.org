@@ -31,6 +31,10 @@ Talk to me about ModSecurity WAFs! andrew [at] ahowe.org
 Things I've written
 ===================
 
+24 February 2023
+  `Report back from the OWASP Core Rule Set Community Summit and OWASP Global AppSec Dublin 2023
+  <https://www.loadbalancer.org/blog/owasp-crs-summit-and-owasp-global-appsec-2023/>`_
+
 19 September 2022
   Co-wrote CVE advisories and blog post over at `coreruleset.org<https://coreruleset.org/>`_ :raw-html:`<br />`
   `CRS Version 3.3.3 and 3.2.2 (covering several CVEs)

@@ -7,9 +7,6 @@
   <title>Andrew Howe</title>
   <style>
     html {
-      line-height: 1.5;
-      font-family: Georgia, serif;
-      font-size: 20px;
       color: #1a1a1a;
       background-color: #fdfdfd;
     }
@@ -28,13 +25,16 @@
     @media (max-width: 600px) {
       body {
         font-size: 0.9em;
-        padding: 1em;
+        padding: 12px;
       }
       h1 {
         font-size: 1.8em;
       }
     }
     @media print {
+      html {
+        background-color: white;
+      }
       body {
         background-color: transparent;
         color: black;
@@ -84,9 +84,10 @@
       color: #606060;
     }
     code {
-      font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
       font-size: 85%;
       margin: 0;
+      hyphens: manual;
     }
     pre {
       margin: 1em 0;
@@ -149,7 +150,7 @@
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
     div.columns{display: flex; gap: min(4vw, 1.5em);}
-    div.column{flex: 1;}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
     ul.task-list li input[type="checkbox"] {
@@ -160,6 +161,11 @@
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <style>
+  	html {
+  		line-height: 1.5;
+  		font-size: 20px;
+  	}
+
   	body {
   		padding-top: 30px;
   	}
@@ -229,6 +235,13 @@ Overflow</a> | <a
 href="https://en.wikipedia.org/wiki/Alignment_(Dungeons_%26_Dragons)#Chaotic_good">Alignment</a></p>
 <h1 id="things-ive-written">Things I've written</h1>
 <dl>
+<dt>24 February 2023</dt>
+<dd>
+<p><a
+href="https://www.loadbalancer.org/blog/owasp-crs-summit-and-owasp-global-appsec-2023/">Report
+back from the OWASP Core Rule Set Community Summit and OWASP Global
+AppSec Dublin 2023</a></p>
+</dd>
 <dt>19 September 2022</dt>
 <dd>
 <p>Co-wrote CVE advisories and blog post over at <a
