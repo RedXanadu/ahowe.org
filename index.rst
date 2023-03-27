@@ -14,7 +14,7 @@ Andrew Howe
 
 among other things.
 
-Talk to me about ModSecurity WAFs! andrew [at] ahowe.org
+Talk to me about ModSecurity WAFs! 🖄 andrew [at] ahowe.org
 
 `GitHub
 <https://github.com/RedXanadu>`_
