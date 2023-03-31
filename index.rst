@@ -35,6 +35,10 @@ Things I've written
   `Report back from the OWASP Core Rule Set Community Summit and OWASP Global AppSec Dublin 2023
   <https://www.loadbalancer.org/blog/owasp-crs-summit-and-owasp-global-appsec-2023/>`_
 
+14 February 2023
+  `(Video) Talk delivered at the CRS Community Summit: A CRS Integrator's Perspective: Changing Real World Customer Needs
+  <https://www.youtube.com/watch?v=c-cieiipYv8>`_
+
 19 September 2022
   Co-wrote CVE advisories and blog post over at `coreruleset.org<https://coreruleset.org/>`_ :raw-html:`<br />`
   `CRS Version 3.3.3 and 3.2.2 (covering several CVEs)
