@@ -31,6 +31,10 @@ Talk to me about ModSecurity WAFs! 🖄 andrew [at] ahowe.org
 Things I've written
 ===================
 
+26 May 2023
+  `Three scenarios for implementing time-based security and content switching on your load balancer
+  <https://www.loadbalancer.org/blog/three-scenarios-for-implementing-time-based-security-and-content-switching/>`_
+
 24 February 2023
   `Report back from the OWASP Core Rule Set Community Summit and OWASP Global AppSec Dublin 2023
   <https://www.loadbalancer.org/blog/owasp-crs-summit-and-owasp-global-appsec-2023/>`_
