@@ -31,6 +31,10 @@ Talk to me about ModSecurity WAFs! 🖄 andrew [at] ahowe.org
 Things I've written
 ===================
 
+13 June 2023
+  `Why you shouldn't lose sleep over the commercial end-of-life of ModSecurity
+  <https://www.loadbalancer.org/blog/why-you-shouldnt-lose-sleep-over-the-commercial-end-of-life-of-modsecurity/>`_
+
 26 May 2023
   `Three scenarios for implementing time-based security and content switching on your load balancer
   <https://www.loadbalancer.org/blog/three-scenarios-for-implementing-time-based-security-and-content-switching/>`_
