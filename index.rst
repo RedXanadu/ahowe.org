@@ -32,7 +32,7 @@ Things I've written
 ===================
 
 17 July 2023
-  CVE blog post at `coreruleset.org<https://coreruleset.org/>`_ :raw-html:`<br />`
+  CVE blog post at `coreruleset.org<https://coreruleset.org/>`_: :raw-html:`<br />`
   `CVE-2023-38199 – Multiple Content-Type Headers
   <https://coreruleset.org/20230717/cve-2023-38199-multiple-content-type-headers/>`_
 
@@ -53,7 +53,7 @@ Things I've written
   <https://www.youtube.com/watch?v=c-cieiipYv8>`_
 
 19 September 2022
-  Co-wrote CVE advisories and blog post over at `coreruleset.org<https://coreruleset.org/>`_ :raw-html:`<br />`
+  Co-wrote CVE advisories and blog post over at `coreruleset.org<https://coreruleset.org/>`_: :raw-html:`<br />`
   `CRS Version 3.3.3 and 3.2.2 (covering several CVEs)
   <https://coreruleset.org/20220919/crs-version-3-3-3-and-3-2-2-covering-several-cves/>`_
 
