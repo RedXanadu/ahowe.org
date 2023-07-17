@@ -31,6 +31,11 @@ Talk to me about ModSecurity WAFs! 🖄 andrew [at] ahowe.org
 Things I've written
 ===================
 
+17 July 2023
+  CVE blog post at `coreruleset.org<https://coreruleset.org/>`_ :raw-html:`<br />`
+  `CVE-2023-38199 – Multiple Content-Type Headers
+  <https://coreruleset.org/20230717/cve-2023-38199-multiple-content-type-headers/>`_
+
 13 June 2023
   `Why you shouldn't lose sleep over the commercial end-of-life of ModSecurity
   <https://www.loadbalancer.org/blog/why-you-shouldnt-lose-sleep-over-the-commercial-end-of-life-of-modsecurity/>`_
