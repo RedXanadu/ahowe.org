@@ -31,6 +31,11 @@ Talk to me about ModSecurity WAFs! 🖄 andrew [at] ahowe.org
 Things I've written
 ===================
 
+24 July 2023
+  Release announcement at `coreruleset.org<https://coreruleset.org/>`_: :raw-html:`<br />`
+  `CRS version 3.3.5 released
+  <https://coreruleset.org/20230724/crs-version-3-3-5-released/>`_
+
 17 July 2023
   CVE blog post at `coreruleset.org<https://coreruleset.org/>`_: :raw-html:`<br />`
   `CVE-2023-38199 – Multiple Content-Type Headers
