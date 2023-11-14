@@ -31,6 +31,15 @@ Talk to me about ModSecurity WAFs! 🖄 andrew [at] ahowe.org
 Things I've written
 ===================
 
+9 November 2023
+  Interview: `Meet the CRS team: Andrew, the technical writer who loves Eurovision and Doom II
+  <https://coreruleset.org/20231109/meet-the-crs-team-andrew-the-technical-writer-who-loves-eurovision-and-doom-ii/>`_
+
+26 October 2023
+  Release announcement at `coreruleset.org<https://coreruleset.org/>`_: :raw-html:`<br />`
+  `CRS version 4.0.0 release candidate 2 available
+  <https://coreruleset.org/20231026/crs-version-4-0-0-release-candidate-2-available/>`_
+
 24 July 2023
   Release announcement at `coreruleset.org<https://coreruleset.org/>`_: :raw-html:`<br />`
   `CRS version 3.3.5 released
