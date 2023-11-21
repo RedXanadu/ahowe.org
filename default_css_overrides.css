@@ -35,12 +35,13 @@
 
 
 	dt {
-		font-size: 0.8em;
+		font-size: 0.79em;
 		color: #0F2F2F;
 	}
 
 	dd {
-		margin-left: 0;
+		margin-left: 8px;
+		font-size: 0.95em;
 	}
 
 	dd p {
