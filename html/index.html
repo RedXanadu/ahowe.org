@@ -60,6 +60,10 @@
     img {
       max-width: 100%;
     }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
     h1, h2, h3, h4, h5, h6 {
       margin-top: 1.4em;
     }
@@ -152,8 +156,11 @@
     div.columns{display: flex; gap: min(4vw, 1.5em);}
     div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
     ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
       width: 0.8em;
       margin: 0 0.8em 0.2em -1.6em;
       vertical-align: middle;
@@ -202,7 +209,7 @@
   	}
 
   	dd {
-  		margin-left: 8px;
+  		margin-left: 12px;
   		font-size: 0.95em;
   	}
 
@@ -233,7 +240,8 @@ Set</a> developer</li>
 href="https://www.linkedin.com/in/andrew-howe-20a423142/">LinkedIn</a> |
 <a href="https://stackoverflow.com/users/16322997/xanadu">Stack
 Overflow</a> | <a
-href="https://en.wikipedia.org/wiki/Alignment_(Dungeons_%26_Dragons)#Chaotic_good">Alignment</a></p>
+href="https://en.wikipedia.org/wiki/Alignment_(Dungeons_%26_Dragons)#Chaotic_good">Alignment</a>
+| <a href="https://ahowe.org/andrew_howe.pub.key">🔑 PGP key</a></p>
 <h1 id="things-ive-written">Things I've written</h1>
 <dl>
 <dt>9 November 2023</dt>
