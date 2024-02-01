@@ -27,6 +27,9 @@ Talk to me about ModSecurity WAFs! 🖄 andrew [at] ahowe.org
 |
 `Alignment
 <https://en.wikipedia.org/wiki/Alignment_(Dungeons_%26_Dragons)#Chaotic_good>`_
+|
+`🔑 PGP key
+<https://ahowe.org/andrew_howe.pub.key>`_
 
 Things I've written
 ===================
