@@ -10,11 +10,11 @@ Andrew Howe
 - Free & open-source software advocate
 - `OWASP ModSecurity Core Rule Set<https://coreruleset.org/>`_ developer
 - Technical author
-- Linux WAF & load balancer engineer/architect
+- WAF engineer / Linux load balancer engineer
 
 among other things.
 
-Talk to me about WAF consultancy and ModSecurity WAFs! 🖄 andrew [at] ahowe.org
+Talk to me about WAF consultancy and ModSecurity WAFs! :raw-html:`<br />` 🖄 andrew [at] ahowe.org
 
 `GitHub
 <https://github.com/RedXanadu>`_
