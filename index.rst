@@ -34,6 +34,14 @@ Talk to me about WAF consultancy, ModSecurity, and WAFs! :raw-html:`<br />` 🖄
 Things I've written
 ===================
 
+30 December 2024
+  `Retired "Legacy WAF" Option Being Removed in LMOS Version 7.2.61.0
+  <https://kemptechnologies.com/blog/retired-legacy-waf-option-removed-in-lmos-version-7.2.61.0/>`_
+
+21 November 2024
+  `Why You Need a Web Application Firewall (WAF)
+  <https://kemptechnologies.com/blog/why-you-need-a-web-application-firewall/>`_
+
 9 November 2023
   Interview: `Meet the CRS team: Andrew, the technical writer who loves Eurovision and Doom II
   <https://coreruleset.org/20231109/meet-the-crs-team-andrew-the-technical-writer-who-loves-eurovision-and-doom-ii/>`_
