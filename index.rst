@@ -34,6 +34,10 @@ Talk to me about WAF consultancy, ModSecurity, and WAFs! :raw-html:`<br />` 🖄
 Things I've written
 ===================
 
+9 April 2025
+  `Is Your Business Ready for the New PCI DSS?
+  <https://kemptechnologies.com/blog/pci-dss-business-compliance-best-practices/>`_
+
 30 December 2024
   `Retired "Legacy WAF" Option Being Removed in LMOS Version 7.2.61.0
   <https://kemptechnologies.com/blog/retired-legacy-waf-option-removed-in-lmos-version-7.2.61.0/>`_
